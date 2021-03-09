@@ -45,7 +45,6 @@ slash commands just yet. We can do that by adding this code shown here:
 
     """
         Make sure this code is added before the client.run() call!
-        It also needs to be under on_ready, otherwise, this will not work.
     """
     
     guild_ids = [789032594456576001] # Put your server ID in this array.
